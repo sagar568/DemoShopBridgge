@@ -1,0 +1,6 @@
+1. Dataase Script is given.
+2. Both Solution and Publish code is given.
+3. Change the connection string of MSSQL Server into "ShopBridge" WebAPI Project.
+4. Change the Base Url into "ShopBridgeFrontEnd" Project Where "shopBridge" Project will deployed.
+5. Connection string Change is appsetting.json file.
+6. URL Change is in WebConfi only.
